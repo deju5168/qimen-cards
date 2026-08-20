@@ -1,0 +1,8 @@
+# 只允許壓縮後的圖卡進入，其餘一律排除
+*
+!.gitignore
+!.gitattributes
+!README.md
+!cards/
+!cards/**/
+!cards/**/*.jpg
